@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "key": {
+    "S": { "item": "cartographersgrief:memory_shard" },
+    "C": { "item": "minecraft:compass" }
+  },
+  "result": {
+    "id": "cartographersgrief:wanderers_compass",
+    "count": 1
+  }
+}

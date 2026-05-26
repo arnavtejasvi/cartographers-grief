@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cartographersgrief",
+  "version": "1.0.0",
+  "name": "The Cartographer's Grief",
+  "description": "The world remembers your deaths. Grief Skulls mark every place you fell. Explore new chunks to fill your Wanderlust. Craft items from memory.",
+  "authors": ["arnav"],
+  "environment": "*",
+  "entrypoints": {
+    "main":   ["com.arnav.cartographersgrief.CartographersGrief"],
+    "client": ["com.arnav.cartographersgrief.CartographersGriefClient"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.19.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
