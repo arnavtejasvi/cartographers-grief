@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cartographersgrief:item/wanderers_compass"
-  }
-}
